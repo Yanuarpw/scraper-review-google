@@ -1,5 +1,5 @@
 """
-SCRAPING REVIEW KLIK INDOMARET
+SCRAPING REVIEW APP IN PLAY STORE
 ================================
 Instalasi dependency:
   pip install google-play-scraper pandas openpyxl rich questionary
