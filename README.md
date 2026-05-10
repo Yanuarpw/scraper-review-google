@@ -1,2 +1,2 @@
 # scraper-review-google
-scraper google review KlikIndomaret
+scraper google play review
